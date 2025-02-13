@@ -1,4 +1,4 @@
-- Hi, I’m velo1guy, an aspiring mechanical engineer
+- Hi, My name is Elliot Duncan
 - I’m interested in systems automation and embeded systems
 - I’m currently learning some rust and python automation stuff
 - I’m looking to collaborate on really anything cool and interesting, my mind is open and i like learning new skills and helping others do the same
